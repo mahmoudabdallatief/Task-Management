@@ -12,7 +12,7 @@
        
        npm install
        
-       npm run dev
+       npm run watch
 
       
    3.Environment setup
