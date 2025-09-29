@@ -25,7 +25,7 @@
 
        php artisan key:generate
        
-   5.Run migrations && seeders
+   5.Run migrations & seeders
 
        php artisan migrate
        
