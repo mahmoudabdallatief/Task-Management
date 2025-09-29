@@ -9,7 +9,9 @@
    2.Install dependencies
 
        composer install
+       
        npm install
+       
        npm run dev
 
       
@@ -23,9 +25,11 @@
 
        php artisan key:generate
        
-   5.Run migrations
+   5.Run migrations && seeders
 
        php artisan migrate
+       
+       php artisan db:seed 
        
    6.Run the server
 
